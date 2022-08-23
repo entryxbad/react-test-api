@@ -1,0 +1,9 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "html.format.maxPreserveNewLines": null,
+    "html.format.wrapAttributes": "auto",
+    "html.format.preserveNewLines": true,
+    "prettier.printWidth": 80,
+    "prettier.jsxBracketSameLine": false
+}
